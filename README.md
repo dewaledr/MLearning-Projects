@@ -1,9 +1,6 @@
-# MLearning-Projects
-Hosts related files for Machine Learning Projects
-
 # Machine Learning project, 2019
-This repository contains a Jupyter notebook showing the details of our investigation into the Boston house prices' dataset using the following data analytics tools: Python, scipy, keras, and Jupyter packages.
-
+This repository hosts all files and documentation produced for this current Machine Learning Project.
+In here, you will find a Jupyter notebook showing the details of our investigation into the Boston house prices' dataset using the following data analytics tools: Python, scipy, keras, and Jupyter packages.
 
 ## notebook name is project_BostonHousePrices.ipynb
 
