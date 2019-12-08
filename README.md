@@ -9,8 +9,9 @@ In here, you will find a Jupyter notebook showing the details of our investigati
 ## This can be assured by installing the [Anaconda](https://www.anaconda.com) Python distribution, Version 3.7 or later version
 ***
 # A basic understanding of Python and Statistics is assumed. 
-# Consquently, the following Machine Learning Packages are needed in order to run this notebook:
---  [SciPy] https://www.scipy.org/
---  [Keras] https://keras.io/
---  [Tensorflow] https://www.tensorflow.org
---  [Scikit Learn] https://scikit-learn.org/stable/
+# The following Machine Learning Packages are needed together with Python in order to run this notebook: Please install them.
+##  [SciPy] https://www.scipy.org/
+##  [Keras] https://keras.io/
+##  [Tensorflow] https://www.tensorflow.org
+##  [Scikit Learn] https://scikit-learn.org/stable/
+***
