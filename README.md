@@ -6,7 +6,7 @@ In here, you will find a Jupyter notebook showing the details of our investigati
 ***
 # To run this notebook, please
 ## Ensure that [Jupyter Lab/Notebook](http://jupyter.org) is installed on your machine
-## This requirement can be met by installing the [Anaconda](https://www.anaconda.com) Python distribution, Version 3.7 or later version
+## This requirement can be met by installing the [Anaconda](https://www.anaconda.com) Python distribution, Version 3.7 or later version.
 ***
 # A basic understanding of Python and Statistics is assumed. 
 # The following Machine Learning Packages are needed together with Python in order to run this notebook: Please install them.
