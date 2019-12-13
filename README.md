@@ -1,6 +1,6 @@
 # Machine Learning project, 2019
 This repository hosts all files and documentation produced for this current Machine Learning Project.
-In here, you will find a Jupyter notebook showing the details of our investigation into the Boston house prices' dataset using the following data analytics tools: Python, Statsmodel, Scikit-Learn, keras, and Jupyter packages, etc.
+In here, you will find a Jupyter notebook showing the details of our investigation into the Boston house prices' dataset using the following data analytics tools: Jupyter Lab, Statsmodel, Scikit-Learn, Keras, TensorFlow and other relevant Python packages.
 ***
 ## notebook name is (project_BostonHousePrices.ipynb)
 ***
